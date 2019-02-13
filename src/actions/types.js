@@ -9,6 +9,7 @@ export const LOGIN_USER= 'login_user';      //SPINNER
 export const EMPLOYEE_UPDATE = 'employee_update';
 export const EMPLOYEE_CREATE = 'employee_create';
 export const EMPLOYEES_FETCH_SUCCESS= 'employees_fetch_success';
+export const EMPLOYEE_SAVE_SUCCESS= 'employee_save_success';
 
 //NO DEAFULT KEYWORD BECOZ THERE WILL BE MANY OTHER EXPORT STATEMENTS TOO
 //the string can be anything we want, just something unique
